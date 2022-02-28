@@ -1,5 +1,8 @@
 # rvezy-assessment
 
+### How to run?
+npm run start
+
 I never completed the last step of the tasks because, as luck would have it, nothing supports Vue 3 yet.  Over half my time was spent with dependency issues and project configuration, easily.  Initially I wanted to make a nicely linted and configured project from scratch because the taks at hand was fairly easy.
 
 However, the first hiccup I ran into was Bootstrap Vue did not support Vue3.  Someone had ported this which was OK for pagination, but the modals were not supported (go figure).
