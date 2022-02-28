@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "strict": true,
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "target": "ES2021",
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "typeRoots": [
+            "src/types"
+        ]
+    },
+    "include": [
+        "./src/**/*"
+    ],
+}

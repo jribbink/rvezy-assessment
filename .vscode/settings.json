@@ -1,0 +1,6 @@
+{
+    "eslint.format.enable": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "vetur.format.defaultFormatter.js": "prettier-eslint",
+    "editor.formatOnSave": true
+}
